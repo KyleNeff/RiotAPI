@@ -31,5 +31,8 @@ padding: 24px;
 }
 .body {
   background: #EAE7DC;
-
+}
+.photo {
+  height: 250px;
+  width: 250px; 
 }
