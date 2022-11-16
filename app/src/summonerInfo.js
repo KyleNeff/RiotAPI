@@ -3,7 +3,7 @@ import "./App.css";
 import SearchBar from "./SearchBar"
 import helmetIcon from './image1.jpg';
 
-
+//export const Input({summonerInfo})
 function Info(){
   
     return(
