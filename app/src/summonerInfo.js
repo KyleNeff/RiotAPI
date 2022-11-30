@@ -10,10 +10,9 @@ function Info(){
 
 <body class="body">
 
-  <h1> {summonerInfo.summonerLevel} </h1>
-
-
-  <SearchBar/>
+  <h1>hi</h1>
+  
+  
 </body>
     )}
 

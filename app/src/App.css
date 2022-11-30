@@ -1,12 +1,13 @@
 .container1 {
   width: 100%;
-  min-height: 1vh;
+  height: auto;
   padding: 24px;
   background-position: center;
   background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
+  word-wrap: break-word;
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -30,9 +31,15 @@ justify-content: center;
 padding: 24px;
 }
 .body {
-  background: #EAE7DC;
+  background-color: #EAE7DC;
 }
 .photo {
   height: 250px;
   width: 250px; 
+}
+.searchBar {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  border-radius: 60px;
 }
